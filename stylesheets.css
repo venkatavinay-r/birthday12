@@ -1,0 +1,23 @@
+.question-container{
+    text-align: center;
+}
+
+body{
+
+     background: linear-gradient(135deg, #FFC1CC, #FFDEE9, #FFD700);
+     color: #4B0033;
+
+     
+}
+.submit{
+    text-align: center;
+    margin: auto;
+
+    position: relative;
+     right: 300px;
+
+    
+
+}  
+
+
